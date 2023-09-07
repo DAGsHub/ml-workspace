@@ -1,7 +1,7 @@
 # Minimum Requirements
 
 ## Utilities
-httpie==2.1.0 # HTTPie - a CLI, cURL-like tool for humans.
+httpie==3.1.0 # HTTPie - a CLI, cURL-like tool for humans.
 cloudpickle==1.5.0  # Extended pickling support for Python objects
 msgpack==1.0.0 # MessagePack (de)serializer.
 msgpack-numpy==0.4.6 # Numpy data serialization using msgpack

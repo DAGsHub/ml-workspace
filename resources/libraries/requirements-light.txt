@@ -16,7 +16,7 @@ beautifulsoup4==4.8.2 # Beautiful Soup is a library that makes it easy to scrape
 soupsieve==1.9.5 # A modern CSS selector implementation for Beautiful Soup.
 
 # Images
-opencv-python-headless==4.1.2.30 # Wrapper package for OpenCV python bindings.
+opencv-python-headless==4.2.0.32 # Wrapper package for OpenCV python bindings.
 opencv-python==4.1.2.30 # Wrapper package for OpenCV python bindings.
 scikit-image==0.16.2 # Image processing routines for SciPy - version 0.14.1 is not compatible with numpy 16
 

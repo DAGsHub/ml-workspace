@@ -10,7 +10,7 @@ mxnet-mkl==1.5.1.post0 # MXNet is an ultra-scalable deep learning framework. Thi
 
 ## NLP
 spacy==2.2.3 # Industrial-strength Natural Language Processing (NLP) with Python and Cython
-nltk==3.4.5 # Natural Language Toolkit
+nltk==3.6.6 # Natural Language Toolkit
 fasttext==0.9.1 # fasttext Python bindings, a library for efficient learning of word representations and sentence classification.
 beautifulsoup4==4.8.2 # Beautiful Soup is a library that makes it easy to scrape information from web pages.
 soupsieve==1.9.5 # A modern CSS selector implementation for Beautiful Soup.

@@ -37,7 +37,7 @@ tensorboard==2.0.0 # TensorBoard lets you watch Tensors Flow
 jupytext==1.5.2 # Jupyter notebooks as Markdown documents, Julia, Python or R scripts
 nbresuse==0.3.6  # Simple Jupyter extension to show how much resources (RAM) your notebook is using
 ipympl==0.5.7 # Matplotlib Jupyter Extension
-jupyterhub==1.1.0 # JupyterHub: A multi-user server for Jupyter notebooks
+jupyterhub==1.5.0 # JupyterHub: A multi-user server for Jupyter notebooks
 remote_ikernel==0.4.6 # Running IPython kernels through batch queues
 jupyter_contrib_nbextensions==0.5.1 # A collection of Jupyter nbextensions.
 jupyter_nbextensions_configurator==0.4.1 # jupyter serverextension providing configuration interfaces for nbextensions.
